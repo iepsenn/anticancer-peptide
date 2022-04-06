@@ -1,0 +1,13 @@
+,ID,Reference,Source Clone name,Sequence,Motif,Target-tumor,Target-cell,Receptors-biomarker,Phage/Library,In vitro/Ex-vivo,In vivo,Homing/targeting,Payloads,patent
+0,1238,Houimel M et al. Int J Cancer. 2001 Jun 1;92(5):748-55.,,MARSGL,,Human breast and ovarian adenocarcinomas,Tumor cell,ErbB-2,,"SK-BR-3, MDA-MB-468, OVCAR3",,Targeting & further studied,,
+1,1239,Houimel M et al. Int J Cancer. 2001 Jun 1;92(5):748-55.,,MARAKE,,Human breast and ovarian adenocarcinomas,Tumor cell,ErbB-2,,"SK-BR-3, MDA-MB-468, OVCAR4",,Targeting & further studied,,
+2,1240,Houimel M et al. Int J Cancer. 2001 Jun 1;92(5):748-55.,,MSRTMS,,Human breast and ovarian adenocarcinomas,Tumor cell,ErbB-2,,"SK-BR-3, MDA-MB-468, OVCAR5",,Targeting & further studied,,
+3,1467,Dharap SS et al. Proc Natl Acad Sci U S A. 2005 Sep 6;102(36):12962-7.,,QHWSYKCIRP,,"Ovarian, breast, and prostate cancer",,LHRH(Receptors for luteinizing hormone-releasing hormone),,The human ovarian carcinoma A2780 cell line,Mice bearing xenografts of human ovarian carcinoma.female athymic nude mice,Homing,Radiolabeled with tritium (CPT-PEG-LHRH conjugate),
+4,1475,Kolonin MG et al. Cancer Res. 2006 Jan 1;66(1):34-40.,,ATLDGVS,GVS,Ovarian cancer,,EGFR,fUSE5 phage /CX7C peptide library,NCI-60 cell lines(ovarian cancer cell lines SKOV3),,Targeting,,
+5,1476,Kolonin MG et al. Cancer Res. 2006 Jan 1;66(1):34-40.,,RRHSVSG,VSG,Ovarian cancer,,EGFR,fUSE5 phage /CX7C peptide library,NCI-60 cell lines(ovarian cancer cell lines SKOV3),,Targeting,,
+6,1477,Kolonin MG et al. Cancer Res. 2006 Jan 1;66(1):34-40.,,SGWFAGS,AGS,Ovarian cancer,,EGFR,fUSE5 phage /CX7C peptide library,NCI-60 cell lines(ovarian cancer cell lines SKOV3),,Targeting,,
+7,1478,Kolonin MG et al. Cancer Res. 2006 Jan 1;66(1):34-40.,,GSVSHRR,GSV,Ovarian cancer,,EGFR,fUSE5 phage /CX7C peptide library,NCI-60 cell lines(ovarian cancer cell lines SKOV3),,Targeting,,
+8,1479,Kolonin MG et al. Cancer Res. 2006 Jan 1;66(1):34-40.,,GSVLPVL,GSV,Ovarian cancer,,EGFR,fUSE5 phage /CX7C peptide library,NCI-60 cell lines(ovarian cancer cell lines SKOV3),,Targeting,,
+9,1480,Kolonin MG et al. Cancer Res. 2006 Jan 1;66(1):34-40.,,RSGRVSN,RVS,Ovarian cancer,,EGFR,fUSE5 phage /CX7C peptide library,NCI-60 cell lines(ovarian cancer cell lines SKOV3),,Targeting,,
+10,1481,Kolonin MG et al. Cancer Res. 2006 Jan 1;66(1):34-40.,,NSVRGSR,SVR,Ovarian cancer,,EGFR,fUSE5 phage /CX7C peptide library,NCI-60 cell lines(ovarian cancer cell lines SKOV3),,Targeting,,
+11,1496,,,CVPELGHEC,,Ovarian cancer,,,T7 phage / 9-mer cyclic peptides (CX7C),Patient serum,,Targeting,,US20040048243 A1

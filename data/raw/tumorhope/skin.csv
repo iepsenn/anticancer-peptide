@@ -1,0 +1,7 @@
+,ID,Reference,Source Clone name,Sequence,Motif,Target-tumor,Target-cell,Receptors-biomarker,Phage/Library,In vitro/Ex-vivo,In vivo,Homing/targeting,Payloads,patent
+0,1718,,,CLSDGK,,Skin cancer,,,,,"TRAMP mice bearing PPC1, M12, DU145 and LNCaP human prostate cancer xenograft tumors",Homing,,US 2007/0219134 A1
+1,1719,,,CLSDGKPVS,,Skin cancer,,,,,"TRAMP mice bearing PPC1, M12, DU145 and LNCaP human prostate cancer xenograft tumors",Homing,,US 2007/0219134 A1
+2,1735,,Clone 1,SRPRR,,Pre-malignant dysplastic skin,Tumor vessel,,T7phage/(CX7C) peptide library,,K14HPV16 mice bearing protuberant ear or trunk tumors at 9 to 12 months of age,Homing,Apoptotic peptide (KLAKLAK),US 2011/0002848A1
+3,1736,,Clone 2,CXSRPRRZC,,Pre-malignant dysplastic skin,Tumor vessel,,T7phage/(CX7C) peptide library,,K14HPV16 mice bearing protuberant ear or trunk tumors at 9 to 12 months of age,Homing,,US 2011/0002848A1
+4,1737,,,CSRPRRSVC,,Pre-malignant dysplastic skin,Tumor vessel,,,,K14HPV16 mice bearing protuberant ear or trunk tumors at 9 to 12 months of age,Homing,,US 2011/0002848A1
+5,1738,,,CSRPRRSWC,,Pre-malignant dysplastic skin,Tumor vessel,,,,K14HPV16 mice bearing protuberant ear or trunk tumors at 9 to 12 months of age,Homing,,US 2011/0002848A1

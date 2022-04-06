@@ -1,0 +1,2 @@
+,ID,Reference,Source Clone name,Sequence,Motif,Target-tumor,Target-cell,Receptors-biomarker,Phage/Library,In vitro/Ex-vivo,In vivo,Homing/targeting,Payloads,patent
+0,1484,Qin X et al. J Biochem. 2007 Jul;142(1):79-85.,P1,CSDSWHYWC,CSDxxHxWC,"Colon cancer, Retinoblastoma",,VEGFR-3 (Human vascular endothelia growth factor receptor 3),M13 phage /7 mer peptide library,human VEGFR-2(hVEGFR-2) positive HT29 cell line and Y79 cell line,,Targeting,FITC,

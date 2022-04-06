@@ -1,0 +1,2 @@
+,ID,Reference,Source Clone name,Sequence,Motif,Target-tumor,Target-cell,Receptors-biomarker,Phage/Library,In vitro/Ex-vivo,In vivo,Homing/targeting,Payloads,patent
+0,1320,Drecoll E et al. PLoS One. 2009 May 27;4(5):e5715.,F3,KDEPQRRSARLSAKPAPPKPEPKPKKAPAKK,,Peritoneal carcinomatosis,Nucleus of tumor cells,Nucleoin,,"EMT6, MIAPACA, CMT93, OVCAR3, MDA-MB-435 cell line",Mice bearing intra-peritoneal MDA-MB-435 xenograft tumors,Homing,Bi-DTPA-[F3]2,"EP1783140A3,US 7,544,767B2"

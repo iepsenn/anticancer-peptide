@@ -1,0 +1,2 @@
+,ID,Reference,Source Clone name,Sequence,Motif,Target-tumor,Target-cell,Receptors-biomarker,Phage/Library,In vitro/Ex-vivo,In vivo,Homing/targeting,Payloads,patent
+0,1759,Ito T et al. Bioorg Med Chem Lett 2011 Jun 15;21(12):3515-8.,c(RGDfK) peptide,RGDfK,,Human glioblastoma and prostate cancer,,Integrins,,"U87 - MG cells, PC3 cells",,Targeting,Lanthanide complexes,US 2003/0125243 A1

@@ -1,0 +1,2 @@
+,ID,Reference,Source Clone name,Sequence,Motif,Target-tumor,Target-cell,Receptors-biomarker,Phage/Library,In vitro/Ex-vivo,In vivo,Homing/targeting,Payloads,patent
+0,1693,,,CSNRDARRC,,Bladder tumor,,,T7 phage / 9-mer cyclic peptides (CX7C) library,,F344 rats,Homing,"FITC, and radiolabelling",US 20080139479
