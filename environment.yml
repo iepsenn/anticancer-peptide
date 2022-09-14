@@ -1,6 +1,7 @@
 name: anticancer-peptide
 dependencies:
   - python=3.8
+  - jupyter
   - pip
   - pip:
     - -r requirements.txt

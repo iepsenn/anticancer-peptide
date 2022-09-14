@@ -1,1 +1,8 @@
 biopython
+pandas
+numpy
+scikit-learn
+imbalanced-learn
+tensorflow-gpu
+gensim
+flaml
