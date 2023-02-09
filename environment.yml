@@ -1,5 +1,9 @@
 name: anticancer-peptide
+channels:
+  - bioconda
+  - biocore
 dependencies:
+  - psipred
   - python=3.8
   - jupyter
   - pip
