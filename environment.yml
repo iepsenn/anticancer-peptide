@@ -1,11 +1,10 @@
 name: anticancer-peptide
 channels:
-  - bioconda
-  - biocore
+  - defaults
 dependencies:
-  - psipred
   - python=3.8
   - jupyter
   - pip
   - pip:
     - -r requirements.txt
+    - -e . 
